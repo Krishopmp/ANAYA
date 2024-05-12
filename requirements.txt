@@ -61,4 +61,4 @@ pyfiglet
 unidecode
 openai==1.26.0
 numpy==1.26.3
-.github.com/Krishopmp/SENORITA-MUSIC
+
